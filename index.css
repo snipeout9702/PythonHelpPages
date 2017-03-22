@@ -1,0 +1,18 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+#Header {
+  height: 15%;
+  background-color: lightgreen;
+}
+
+#Title {
+  font-weight: bold;
+}
+
+#Navbar {
+  height: 10%;
+  background-color: orange;
+}
